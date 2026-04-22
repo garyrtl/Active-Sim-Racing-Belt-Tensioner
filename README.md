@@ -2,6 +2,7 @@
 Active Sim Racing Belt Tensioner
 
 Material:
+
 1 x ODESCv3.6 56V https://sequremall.com/collections/odesc/products/odesc-dual-drive
 
 1 x 24V 20A power supply
