@@ -69,7 +69,8 @@ This design uses two **hoverboard motors** driven by an **ODESC (open-source ODr
 - **Mount SK16 shaft supports** to 4040 aluminum extrusions using M5 or M6 bolts and t-nuts. Mount hoverboard motors to SK16 shaft supports.
   
   **DO NOT** connect bicycle brake cables yet!
-  <img width="600" alt="IMG_4249" src="https://github.com/user-attachments/assets/43eb55a9-5360-4e20-98b8-2227e728602d" />
+
+<img width="600" alt="IMG_4249" src="https://github.com/user-attachments/assets/43eb55a9-5360-4e20-98b8-2227e728602d" />
 
 ### Step 5: Configure ODESC for Hoverboard Motors
 
