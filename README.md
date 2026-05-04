@@ -1,6 +1,6 @@
 # DIY Active Sim Racing Belt Tensioner: Complete Build Guide
 
-[![Watch the video](https://github.com/user-attachments/assets/ec84f325-cacf-48e7-ba99-d7b97787f71d)](https://www.youtube.com/watch?v=jDv2dkZlcOc)
+https://www.youtube.com/watch?v=jDv2dkZlcOc
 
 ## 1. Introduction
 
