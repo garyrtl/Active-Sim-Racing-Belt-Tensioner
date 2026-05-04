@@ -1,5 +1,7 @@
 # DIY Active Sim Racing Belt Tensioner: Complete Build Guide
 
+[![Watch the video](https://github.com/user-attachments/assets/ec84f325-cacf-48e7-ba99-d7b97787f71d)](https://www.youtube.com/watch?v=jDv2dkZlcOc)
+
 ## 1. Introduction
 
 **What is an Active Belt Tensioner?**  
@@ -84,7 +86,7 @@ Follow the [ODrive hoverboard motor guide](https://docs.odriverobotics.com/v/0.5
 1. Insert the bicycle brake cable through M5 bolts in the spool
    <img width="600" alt="IMG_4180" src="https://github.com/user-attachments/assets/8e04973b-9a4f-4941-8bc8-45806ae354ce" />
 2. Attach the other end of the cable to the harness strap anchor bracket.
-   <img width="600" height="4032" alt="IMG_4268" src="https://github.com/user-attachments/assets/e7368e75-6ac2-4b95-9c9f-45fd2688481a" />
+   <img width="600" alt="IMG_4268" src="https://github.com/user-attachments/assets/e7368e75-6ac2-4b95-9c9f-45fd2688481a" />
 
 ###Step 7: Set Up SimHub (Telemetry to Tensioner)
 Download and install SimHub
