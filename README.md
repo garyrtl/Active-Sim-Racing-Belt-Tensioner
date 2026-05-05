@@ -88,7 +88,7 @@ Follow the [ODrive hoverboard motor guide](https://docs.odriverobotics.com/v/0.5
 2. Attach the other end of the cable to the harness strap anchor bracket.
    <img width="600" alt="IMG_4268" src="https://github.com/user-attachments/assets/e7368e75-6ac2-4b95-9c9f-45fd2688481a" />
 
-###Step 7: Set Up SimHub (Telemetry to Tensioner)
+### Step 7: Set Up SimHub (Telemetry to Tensioner)
 Download and install SimHub
 
 1. In SimHub, go to Custom Serial Device. Add a new device
