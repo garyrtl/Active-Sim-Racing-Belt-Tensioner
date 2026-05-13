@@ -75,7 +75,11 @@ This design uses two **hoverboard motors** driven by an **ODESC (open-source ODr
 <img width="600" alt="IMG_4249" src="https://github.com/user-attachments/assets/43eb55a9-5360-4e20-98b8-2227e728602d" />
 
 ### Step 5: Configure ODESC for Hoverboard Motors
-
+  * If ODrive not detected, install USB driver using Zadig
+  * Download Zadig: https://zadig.akeo.ie/
+  * In Zadig: Options -> List All Devices
+  * Select "ODrive 3.6 Native Interface"
+  * Install WinUSB driver
 1. Install ODrive tools on your PC (Python + odrivetool)
 2. Run `odrivetool` and connect to the ODESC
 3. Calibrate each motor: 
