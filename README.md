@@ -12,6 +12,8 @@ This design uses two **hoverboard motors** driven by an **ODESC (open-source ODr
 
 **Source Repository:** [github.com/garyrtl/Active-Sim-Racing-Belt-Tensioner](https://github.com/garyrtl/Active-Sim-Racing-Belt-Tensioner)
 
+**Discord:** [https://discord.gg/UPYektbab](https://discord.gg/UPYektbab)
+
 ---
 
 ## 2. Bill of Materials (BOM) with Estimated Costs
